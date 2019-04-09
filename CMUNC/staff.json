@@ -1,0 +1,93 @@
+{
+	"staffRooms" : [
+		{
+			"name" : "Congress of Vienna Crisis Room",
+			"rooms" : [
+				"Malott Hall 206",
+				"Malott Hall 206",
+				"Malott Hall 206",
+				"Malott Hall 206",
+				"Malott Hall 206",
+				"Malott Hall 206"
+			]
+		},
+		{
+			"name" : "Gran Colombia Crisis Room",
+			"rooms" : [
+				"Rockefeller Hall 105",
+				"Rockefeller Hall 127",
+				"Rockefeller Hall 127",
+				"Rockefeller Hall 127",
+				"Rockefeller Hall 127",
+				"Rockefeller Hall 127"
+			]
+		},
+		{
+			"name" : "Regan Cabinet Crisis Room",
+			"rooms" : [
+				"Plant Sciences G37",
+				"Plant Sciences G37",
+				"Plant Sciences G37",
+				"Plant Sciences G37",
+				"Plant Sciences G37",
+				"Plant Sciences G37"
+			]
+		},
+		{
+			"name" : "Texas Revolution Crisis Room",
+			"rooms" : [
+				"Rockefeller Hall 128",
+				"Rockefeller Hall 128",
+				"Rockefeller Hall 128",
+				"Rockefeller Hall 128",
+				"Rockefeller Hall 128",
+				"Rockefeller Hall 128"
+			]
+		},
+		{
+			"name" : "War of the Roses Crisis Room",
+			"rooms" : [
+				"Malott Hall 207",
+				"Malott Hall 207",
+				"Malott Hall 207",
+				"Malott Hall 207",
+				"Malott Hall 207",
+				"Malott Hall 207"
+			]
+		},
+		{
+			"name" : "JCC Crisis Room",
+			"rooms" : [
+				"Warren Hall 173",
+				"Warren Hall 173",
+				"Warren Hall 173",
+				"Warren Hall 173",
+				"Warren Hall 173",
+				"Warren Hall 173"
+			]
+		},
+		{
+			"name" : "Meiji Restoration Crisis Room",
+			"rooms" : [
+				"Rockefeller Hall 112",
+				"Rockefeller Hall 112",
+				"Rockefeller Hall 112",
+				"Rockefeller Hall 112",
+				"Rockefeller Hall 112",
+				"Rockefeller Hall 112"
+			]
+		},
+		{
+			"name" : "Secretariat Room",
+			"rooms" : [
+				"Warren Hall 101",
+				"Warren Hall 101",
+				"Warren Hall 101",
+				"Warren Hall 101",
+				"Warren Hall 101",
+				"Warren Hall 101"
+			]
+		}
+	],
+	"sessions" : ["Committee Session I", "Committee Session II", "Committee Session III", "Committee Session IV", "Committee Session V", "Committee Session VI", "Committee Session VII", "Committee Session IX", "Committee Session X"]
+}

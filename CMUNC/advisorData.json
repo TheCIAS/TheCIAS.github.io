@@ -1,0 +1,29 @@
+{
+	"secretariatInfo" : [
+		{
+			"name" : "Ann Balzer",
+			"role" : "Secretary-General",
+			"email" : "sg@cmunc.net"
+		},
+		{
+			"name" : "Abigail Chen",
+			"role" : "Director-General",
+			"email" : "dg@cmunc.net"
+		}
+	],
+	"meetings" : [
+		{
+			"date" : "Thursday, 11:15pm",
+			"description" : "Introductory meeting. Both general and committee-based feedback was discussed. All information was relayed to committee staff."
+		},
+		{
+			"date" : "Friday, 10:15pm",
+			"description" : "Location: Goldwin Smith Hall 132. Second day of feedback and K House logistics."
+		},
+		{
+			"date" : "Saturday, 7:15pm",
+			"description" : "Location: Goldwin Smith Hall 132. Final day of feedback and delegate social logistics."
+		}
+		
+	]
+}

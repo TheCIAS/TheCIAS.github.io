@@ -1,0 +1,36 @@
+{
+	"headDelPassword" : "2",
+	"staffPassword" : "2",
+	"conferenceStartDate" : "11-1-2018",
+	"numConferenceDays" : 4,
+	"committeeTimes" : [
+		{
+			"start" : "11-1-2018 8:30 PM",
+			"end" : "11-1-2018 11:00 PM"
+		},
+		{
+			"start" : "11-2-2018 4:30 PM",
+			"end" : "11-2-2018 6:30 PM"
+		},
+		{
+			"start" : "11-2-2018 8:00 PM",
+			"end" : "11-2-2018 10:00 PM"
+		},
+		{
+			"start" : "11-3-2018 10:30 AM",
+			"end" : "11-3-2018 12:30 PM"
+		},
+		{
+			"start" : "11-3-2018 1:30 PM",
+			"end" : "11-3-2018 4:30 PM"
+		},
+		{
+			"start" : "11-3-2018 5:00 PM",
+			"end" : "11-3-2018 7:00 PM"
+		},
+		{
+			"start" : "11-4-2018 11:00 AM",
+			"end" : "11-4-2018 12:30 PM"
+		}
+	]
+}

@@ -1,0 +1,128 @@
+[
+	{
+	"day" : "Thursday, April 11",
+	"eventTimes" :
+		[
+			{
+			"event" : "Registration",
+			"information" : "Advsiors must be present",
+			"location" : "Hotel lobbies",
+			"times" : ["4:00pm - 6:00pm"]
+			},
+			{
+			"event" : "Opening Ceremonies and Keynote Address",
+			"location" : "Bailey Hall",
+			"times" : ["8:00pm - 9:00pm"]
+			},
+			{
+			"event" : "Committee Session I",
+			"location" : "Committee Rooms",
+			"times" : ["9:30pm - 11:30pm"]
+			}
+		]
+	},
+	{
+	"day" : "Friday, April 12",
+	"eventTimes" :
+		[
+			{
+			"event" : "Campus Tours",
+			"location" : "Bailey Hall",
+			"times" : ["11:15am - 12:15pm"]
+			},
+			{
+			"event" : "General Assembly/Specialized Training",
+			"location" : "Caldwell Hall 100",
+			"times" : ["1:30pm - 2:30pm"]
+			},
+			{
+			"event" : "Crisis Training",
+			"location" : "Warren Hall B75",
+			"times" : ["1:30pm - 2:30pm"]
+			},
+			{
+			"event" : "UN4MUN Training",
+			"location" : "Warren Hall B25",
+			"times" : ["1:30pm - 2:30pm"]
+			},
+			{
+			"event" : "College Q&A",
+			"location" : "Caldwell Hall 100",
+			"times" : ["8:00pm - 10:00pm"]
+			},
+			{
+			"event" : "Commitee Session II",
+			"location" : "Committee Rooms",
+			"times" : ["Crisis, General Assemblies: 4:30pm - 6:30pm", "UN4MUN, Specialized: 4:30pm - 6:30pm"]
+			},
+			{
+			"event" : "Dinner Break",
+			"location" : "Trillium",
+			"times" : ["Crisis, General Assemblies: 6:30pm - 8:30pm", "UN4MUN, Specialized: 7:00pm - 8:30pm"]
+			},
+			{
+			"event" : "Committee Session III",
+			"location" : "Committee Rooms",
+			"times" : ["Crisis, General Assemblies: 8:00pm - 11:00pm", "UN4MUN, Specialized: 8:30pm - 11:00pm"]
+			},
+			{
+			"event" : "Midnight Crisis",
+			"location" : "Clarion Inn",
+			"times" : ["12:30am - 2:30am"]
+			}
+		]
+	},
+	{
+	"day" : "Saturday, April 13",
+	"eventTimes" :
+		[
+			{
+			"event" : "Committee Session IV",
+			"location" : "Committee Rooms",
+			"times" : ["Crisis, General Assemblies: 9:30am - 1:15pm", "UN4MUN, Specialized: 9:30am - 12:45pm"]
+			},
+			{
+			"event" : "Lunch Break",
+			"location" : "Trillium",
+			"times" : ["Crisis, General Assemblies: 1:15pm - 2:45pm", "UN4MUN, Specialized: 12:45pm - 2:15pm"]
+			},
+			{
+			"event" : "Committee Session V",
+			"location" : "Committee Rooms",
+			"times" : ["Crisis, General Assemblies: 2:45pm - 6:30pm", "UN4MUN, Specialized: 2:15pm - 6:30pm"]
+			},
+			{
+			"event" : "Dinner Break",
+			"location" : "Hotels/Ithaca",
+			"times" : ["6:30pm - 8:45pm"]
+			},
+			{
+			"event" : "Delegate Dance",
+			"location" : "Museum of the Earth",
+			"information" : "Pickup at hotels", 
+			"times" : ["9:00pm - 12:00am"]
+			}
+		]
+	},
+	{
+	"day" : "Sunday, April 14",
+	"eventTimes" :
+		[
+			{
+			"event" : "Committee Session VI",
+			"location" : "Committee Rooms",
+			"times" : ["9:30am - 11:30am"]
+			},
+			{
+			"event" : "Lunch Break",
+			"location" : "Bus Stop Bagels",
+			"times" : ["11:30am - 1:00pm"]
+			},
+			{
+			"event" : "Closing Ceremonies",
+			"location" : "Bailey Hall",
+			"times" : ["1:00pm - 2:00pm"]
+			}
+		]
+	}
+]

@@ -1,0 +1,77 @@
+{
+	"staffRooms" : [
+		{
+			"name" : "Secretariat Room",
+			"rooms" : [
+				"Goldwin Smith Hall 164",
+				"Goldwin Smith Hall 142",
+				"Goldwin Smith Hall 142",
+				"Goldwin Smith Hall 164",
+				"Goldwin Smith Hall 164",
+				"Goldwin Smith Hall 164",
+				"Goldwin Smith Hall 164"
+			]
+		},
+		{
+			"name" : "Crisis Room A",
+			"rooms" : [
+				"Goldwin Smith Hall 181",
+				"Goldwin Smith Hall 184",
+				"Goldwin Smith Hall 184",
+				"Goldwin Smith Hall 181",
+				"Goldwin Smith Hall 181",
+				"Goldwin Smith Hall 181",
+				"Goldwin Smith Hall 181"
+			]
+		},
+		{
+			"name" : "Crisis Room B",
+			"rooms" : [
+				"Rockefeller Hall 110",
+				"Rockefeller Hall 183",
+				"Rockefeller Hall 183",
+				"Rockefeller Hall 183",
+				"Rockefeller Hall 183",
+				"Rockefeller Hall 183",
+				"Rockefeller Hall 183"
+			]
+		},
+		{
+			"name" : "Crisis Room C",
+			"rooms" : [
+				"Goldwin Smith Hall G20",
+				"Goldwin Smith Hall G20",
+				"Goldwin Smith Hall G20",
+				"Goldwin Smith Hall G20",
+				"Goldwin Smith Hall G20",
+				"Goldwin Smith Hall G20",
+				"Goldwin Smith Hall G20"
+			]
+		},
+		{
+			"name" : "Crisis Room D",
+			"rooms" : [
+				"Goldwin Smith Hall 236",
+				"Goldwin Smith Hall 236",
+				"Goldwin Smith Hall 236",
+				"Goldwin Smith Hall 236",
+				"Goldwin Smith Hall 236",
+				"Goldwin Smith Hall 236",
+				"Goldwin Smith Hall 236"
+			]
+		},
+		{
+			"name" : "Staff Room",
+			"rooms" : [
+				"Goldwin Smith Hall G22",
+				"Goldwin Smith Hall G22",
+				"Goldwin Smith Hall G22",
+				"Rockefeller Hall 183",
+				"Rockefeller Hall 183",
+				"Rockefeller Hall 183",
+				"Rockefeller Hall 183"
+			]
+		}
+	],
+	"sessions" : ["Committee Session I", "Committee Session II", "Committee Session III", "Committee Session IV", "Committee Session V", "Committee Session VI", "Committee Session VII", "Committee Session IX", "Committee Session X"]
+}

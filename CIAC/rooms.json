@@ -1,0 +1,162 @@
+{
+	"rooms" :
+		[
+			{
+				"committee" : "JCC: Free Peoples of Middle-earth",
+				"image" : "2018_jcc_lotr_good.png",
+				"rooms" : [
+					"Goldwin Smith Hall 156",
+					"Goldwin Smith Hall 156",
+					"Goldwin Smith Hall 156",
+					"Goldwin Smith Hall 156",
+					"Goldwin Smith Hall 156",
+					"Goldwin Smith Hall 156",
+					"Goldwin Smith Hall 156"
+				]
+			},
+			{
+				"committee" : "JCC: Minions of Sauron",
+				"image" : "2018_jcc_lotr_bad.png",
+				"rooms" : [
+					"Goldwin Smith Hall 158",
+					"Goldwin Smith Hall 158",
+					"Goldwin Smith Hall 158",
+					"Goldwin Smith Hall 158",
+					"Goldwin Smith Hall 158",
+					"Goldwin Smith Hall 158",
+					"Goldwin Smith Hall 158"
+				]
+			},
+			{
+				"committee" : "JCC: Athens",
+				"image" : "2018_jcc_greece_athens.png",
+				"rooms" : [
+					"Goldwin Smith Hall 350",
+					"Goldwin Smith Hall 350",
+					"Goldwin Smith Hall 350",
+					"Goldwin Smith Hall 350",
+					"Goldwin Smith Hall 350",
+					"Goldwin Smith Hall 350",
+					"Goldwin Smith Hall 350"
+				]
+			},
+			{
+				"committee" : "JCC: Sparta",
+				"image" : "2018_jcc_greece_sparta.png",
+				"rooms" : [
+					"Goldwin Smith Hall 348",
+					"Goldwin Smith Hall 348",
+					"Goldwin Smith Hall 348",
+					"Goldwin Smith Hall 348",
+					"Goldwin Smith Hall 348",
+					"Goldwin Smith Hall 348",
+					"Goldwin Smith Hall 348"
+				]
+			},
+			{
+				"committee" : "Unification of Germany",
+				"image" : "2018_unification_of_germany.png",
+				"rooms" : [
+					"Rockefeller Hall B15",
+					"Rockefeller Hall B15",
+					"Rockefeller Hall B15",
+					"Rockefeller Hall B15",
+					"Rockefeller Hall B15",
+					"Rockefeller Hall B15",
+					"Rockefeller Hall B15"
+				]
+			},
+			{
+				"committee" : "Robert's Rebellion",
+				"image" : "2018_roberts_rebellion.png",
+				"rooms" : [
+					"Goldwin Smith Hall 283",
+					"Goldwin Smith Hall 283",
+					"Goldwin Smith Hall 283",
+					"Goldwin Smith Hall 283",
+					"Goldwin Smith Hall 283",
+					"Goldwin Smith Hall 283",
+					"Goldwin Smith Hall 283"
+				]
+			},
+			{
+				"committee" : "United Nations Office on Drugs and Crime",
+				"image" : "2018_unodc.png",
+				"rooms" : [
+					"Morill Hall 106",
+					"Morill Hall 107",
+					"Morill Hall 107",
+					"Morill Hall 107",
+					"Morill Hall 107",
+					"Morill Hall 107",
+					"Morill Hall 107"
+				]
+			},
+			{
+				"committee" : "Trump's Constitutional Convention",
+				"image" : "2018_trump.png",
+				"rooms" : [
+					"Morill Hall 110",
+					"Morill Hall 111",
+					"Morill Hall 111",
+					"Morill Hall 111",
+					"Morill Hall 111",
+					"Morill Hall 111",
+					"Morill Hall 111"
+				]
+			},
+			{
+				"committee" : "Jurassic World",
+				"image" : "2018_jurassic_world.png",
+				"rooms" : [
+					"Rockefeller Hall 127",
+					"Rockefeller Hall 127",
+					"Rockefeller Hall 127",
+					"Rockefeller Hall 127",
+					"Rockefeller Hall 127",
+					"Rockefeller Hall 127",
+					"Rockefeller Hall 127"
+				]
+			},
+			{
+				"committee" : "The Arab League",
+				"image" : "2018_arab_league.png",
+				"rooms" : [
+					"Goldwin Smith Hall G24",
+					"Goldwin Smith Hall G24",
+					"Goldwin Smith Hall G24",
+					"Goldwin Smith Hall G24",
+					"Goldwin Smith Hall G22",
+					"Goldwin Smith Hall G22",
+					"Goldwin Smith Hall G22"
+				]
+			},
+			{
+				"committee" : "The Italian Wars of the 15th Century",
+				"image" : "2018_italian_wars.png",
+				"rooms" : [
+					"Goldwin Smith Hall G19",
+					"Goldwin Smith Hall G19",
+					"Goldwin Smith Hall G19",
+					"Goldwin Smith Hall G19",
+					"Goldwin Smith Hall G19",
+					"Goldwin Smith Hall G19",
+					"Goldwin Smith Hall G19"
+				]
+			},
+			{
+				"committee" : "OPEC",
+				"image" : "2018_opec.png",
+				"rooms" : [
+					"Goldwin Smith Hall 160",
+					"Goldwin Smith Hall 160",
+					"Goldwin Smith Hall 160",
+					"Goldwin Smith Hall 160",
+					"Goldwin Smith Hall 160",
+					"Goldwin Smith Hall 160",
+					"Goldwin Smith Hall 160"
+				]
+			}
+		],
+	"sessions" : ["Committee Session I", "Committee Session II", "Committee Session III", "Committee Session IV", "Committee Session V", "Committee Session VI", "Committee Session VII", "Committee Session IX", "Committee Session X"]
+}

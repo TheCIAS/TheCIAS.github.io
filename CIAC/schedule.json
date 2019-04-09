@@ -1,0 +1,92 @@
+[
+	{
+	"day" : "Thursday, November 1",
+	"eventTimes" :
+		[
+			{
+			"event" : "Registration",
+			"information" : "Head delegate must be present",
+			"location" : "Clarion Inn",
+			"times" : ["4:00pm - 6:00pm"]
+			},
+			{
+			"event" : "Opening Ceremony",
+			"location" : "Biotechnology Building G10",
+			"times" : ["7:00pm - 8:00pm"]
+			},
+			{
+			"event" : "Committee Session I",
+			"location" : "Committee Rooms",
+			"times" : ["8:30pm - 11:00pm"]
+			}
+		]
+	},
+	{
+	"day" : "Friday, November 2",
+	"eventTimes" :
+		[
+			{
+			"event" : "Head Delegate Brunch",
+			"location" : "Willard Straight Hall 413",
+			"times" : ["2:00pm - 4:00pm"]
+			},
+			{
+			"event" : "Committee Session II",
+			"location" : "Committee Rooms",
+			"times" : ["4:30pm - 6:30pm"]
+			},
+			{
+			"event" : "Committee Session III",
+			"location" : "Clarion Inn",
+			"times" : ["8:00pm - 10:00pm"]
+			},
+			{
+			"event" : "Lounge Night",
+			"location" : "K-HOUSE",
+			"times" : ["11:00pm - 1:00am"]
+			}
+		]
+	},
+	{
+	"day" : "Saturday, November 3",
+	"eventTimes" :
+		[
+			{
+			"event" : "Committee Session IV",
+			"location" : "Committee Rooms",
+			"times" : ["10:30am - 12:30pm"]
+			},
+			{
+			"event" : "Committee Session V",
+			"location" : "Committee Rooms",
+			"times" : ["1:30pm - 4:30pm"]
+			},
+			{
+			"event" : "Committee Session VI",
+			"location" : "Committee Rooms",
+			"times" : ["5:00pm - 7:00pm"]
+			},
+			{
+			"event" : "Delegate Social",
+			"location" : "Boatyard Grill",
+			"times" : ["10:30pm - 1:00am"]
+			}
+		]
+	},
+	{
+	"day" : "Sunday, November 4",
+	"eventTimes" :
+		[
+			{
+			"event" : "Committee Session VII",
+			"location" : "Committee Rooms",
+			"times" : ["11:00am - 12:30pm"]
+			},
+			{
+			"event" : "Closing Ceremony",
+			"location" : "Klarman Auditorium KG76",
+			"times" : ["1:30pm - 2:30pm"]
+			}
+		]
+	}
+]

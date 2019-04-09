@@ -1,0 +1,222 @@
+{
+	"rooms" :
+		[
+			{
+				"committee" : "Ad Hoc",
+				"image" : "2019_ad_hoc.png",
+				"rooms" : [
+					"Malott Hall 224",
+					"Warren Hall 150",
+					"Warren Hall 150",
+					"Malott Hall 224",
+					"Malott Hall 224",
+					"Malott Hall 224"
+				]
+			},
+			{
+				"committee" : "Congress of Vienna",
+				"image" : "2019_vienna.png",
+				"rooms" : [
+					"Malott Hall 203",
+					"Malott Hall 203",
+					"Malott Hall 203",
+					"Malott Hall 203",
+					"Malott Hall 203",
+					"Malott Hall 203"
+				]
+			},
+			{
+				"committee" : "Gran Colombia",
+				"image" : "2019_gran_colombia.png",
+				"rooms" : [
+					"Rockefeller Hall 189",
+					"Rockefeller Hall 189",
+					"Rockefeller Hall 189",
+					"Rockefeller Hall 189",
+					"Rockefeller Hall 189",
+					"Rockefeller Hall 189"
+				]
+			},
+			{
+				"committee" : "JCC: India",
+				"image" : "2019_jcc_india.png",
+				"rooms" : [
+					"Warren Hall 138",
+					"Warren Hall 138",
+					"Warren Hall 138",
+					"Warren Hall 138",
+					"Warren Hall 138",
+					"Warren Hall 113"
+				]
+			},
+			{
+				"committee" : "JCC: Pakistan",
+				"image" : "2019_jcc_pakistan.png",
+				"rooms" : [
+					"Warren Hall 137",
+					"Warren Hall 137",
+					"Warren Hall 137",
+					"Warren Hall 150",
+					"Warren Hall 150",
+					"Warren Hall 137"
+				]
+			},
+			{
+				"committee" : "Meiji Restoration",
+				"image" : "2019_meiji_restoration.png",
+				"rooms" : [
+					"Rockefeller 110",
+					"Rockefeller 110",
+					"Rockefeller 110",
+					"Rockefeller 110",
+					"Rockefeller 110",
+					"Rockefeller 110"
+				]
+			},
+			{
+				"committee" : "Reagan Cabinet",
+				"image" : "2019_reagan_cabinet.png",
+				"rooms" : [
+					"Plant Sciences 143",
+					"Plant Sciences 143",
+					"Plant Sciences 143",
+					"Plant Sciences 143",
+					"Plant Sciences 143",
+					"Plant Sciences 143"
+				]
+			},
+			{
+				"committee" : "Texas Revolution",
+				"image" : "2019_texas_revolution.png",
+				"rooms" : [
+					"Rockefeller Hall 187",
+					"Rockefeller Hall 187",
+					"Rockefeller Hall 187",
+					"Rockefeller Hall 187",
+					"Rockefeller Hall 187",
+					"Rockefeller Hall 187"
+				]
+			},
+			{
+				"committee" : "War of the Roses",
+				"image" : "2019_war_of_the_roses.png",
+				"rooms" : [
+					"Malott Hall 205",
+					"Malott Hall 205",
+					"Malott Hall 205",
+					"Malott Hall 205",
+					"Malott Hall 205",
+					"Malott Hall 205"
+				]
+			},
+			{
+				"committee" : "CCPCJ",
+				"image" : "2019_ccpcj.png",
+				"rooms" : [
+					"Biotechnologuy Building G10",
+					"Warren Hall 151",
+					"Warren Hall 151",
+					"Warren Hall 151",
+					"Warren Hall 151",
+					"Warren Hall 151"
+				]
+			},
+			{
+				"committee" : "DISEC",
+				"image" : "2019_disec.png",
+				"rooms" : [
+					"Malott Hall 253",
+					"Plant Sciences 233",
+					"Plant Sciences 233",
+					"Plant Sciences 233",
+					"Plant Sciences 233",
+					"Plant Sciences 233"
+				]
+			},
+			{
+				"committee" : "ECOFIN",
+				"image" : "2019_ecofin.png",
+				"rooms" : [
+					"Warren Hall 175",
+					"Warren Hall 175",
+					"Warren Hall 175",
+					"Warren Hall 175",
+					"Warren Hall 175",
+					"Warren Hall 175"
+				]
+			},
+			{
+				"committee" : "SOCHUM",
+				"image" : "2019_sochum.png",
+				"rooms" : [
+					"Warren Hall B50",
+					"Warren Hall B50",
+					"Warren Hall B50",
+					"Malott Hall 253",
+					"Malott Hall 253",
+					"Warren Hall B50"
+				]
+			},
+			{
+				"committee" : "African Union",
+				"image" : "2019_african_union.png",
+				"rooms" : [
+					"Warren Hall B75",
+					"Warren Hall B75",
+					"Warren Hall B75",
+					"Rockefeller Hall 132",
+					"Rockefeller Hall 132",
+					"Warren Hall B75"
+				]
+			},
+			{
+				"committee" : "ILO",
+				"image" : "2019_ilo.png",
+				"rooms" : [
+					"Rockefeller Hall 115",
+					"Rockefeller Hall 115",
+					"Rockefeller Hall 115",
+					"Rockefeller Hall 115",
+					"Rockefeller Hall 115",
+					"Rockefeller Hall 115"
+				]
+			},
+			{
+				"committee" : "OAS",
+				"image" : "2019_oas.png",
+				"rooms" : [
+					"Warren Hall B51",
+					"Warren Hall B51",
+					"Warren Hall B51",
+					"Malott Hall 406",
+					"Malott Hall 406",
+					"Warren Hall B51"
+				]
+			},
+			{
+				"committee" : "UNCSW",
+				"image" : "2019_uncsw.png",
+				"rooms" : [
+					"Rockefeller Hall 122",
+					"Rockefeller Hall 122",
+					"Rockefeller Hall 122",
+					"Rockefeller Hall 122",
+					"Rockefeller Hall 122",
+					"Rockefeller Hall 122"
+				]
+			},
+			{
+				"committee" : "WHO",
+				"image" : "2019_who.png",
+				"rooms" : [
+					"Malott Hall 251",
+					"Malott Hall 251",
+					"Malott Hall 251",
+					"Malott Hall 251",
+					"Malott Hall 251",
+					"Malott Hall 251"
+				]
+			}
+		],
+	"sessions" : ["Committee Session I", "Committee Session II", "Committee Session III", "Committee Session IV", "Committee Session V", "Committee Session VI", "Committee Session VII", "Committee Session IX", "Committee Session X"]
+}

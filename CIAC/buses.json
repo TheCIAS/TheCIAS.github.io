@@ -1,0 +1,118 @@
+{
+	"addresses" : [
+		{
+			"name" : "Bailey Hall",
+			"address" : "230 Garden Ave, Ithaca, NY 14850"
+		},
+		{
+			"name" : "Boatyard Grill",
+			"address" : "525 Old Taughannock Blvd, Ithaca, NY 14850"
+		},
+		{
+			"name" : "Clarion Inn",
+			"address" : "525 Old Taughannock Blvd, Ithaca, NY 14850"
+		}
+	],
+	"buses" : [
+		{
+			"day" : "Thursday",
+			"buses" : [
+				{
+					"bus" : "Clarion Inn to Bailey Hall",
+					"time" : "6:00pm"
+				},
+				{
+					"bus" : "Clarion Inn to Bailey Hall",
+					"time" : "6:35pm"
+				},
+				{
+					"bus" : "Bailey Hall to Clarion Inn",
+					"time" : "11:15pm"
+				},
+				{
+					"bus" : "Bailey Hall to Clarion Inn (Head Delegates only)",
+					"time" : "11:50pm"
+				}
+			]
+		},
+		{
+			"day" : "Friday",
+			"buses" : [
+				{
+					"bus" : "Clarion Inn to Bailey Hall",
+					"time" : "3:25pm"
+				},
+				{
+					"bus" : "Clarion Inn to Bailey Hall",
+					"time" : "4:05pm"
+				},
+				{
+					"bus" : "Bailey Hall to Clarion Inn",
+					"time" : "10:15pm"
+				},
+				{
+					"bus" : "Bailey Hall to Clarion Inn (Head Delegates only)",
+					"time" : "10:55pm"
+				}
+			]
+		},
+		{
+			"day" : "Saturday",
+			"buses" : [
+				{
+					"bus" : "Clarion Inn to Bailey Hall",
+					"time" : "9:20am"
+				},
+				{
+					"bus" : "Clarion Inn to Bailey Hall",
+					"time" : "10:00am"
+				},
+				{
+					"bus" : "Bailey Hall to Clarion Inn",
+					"time" : "7:15pm"
+				},
+				{
+					"bus" : "Bailey Hall to Clarion Inn",
+					"time" : "7:55pm"
+				},
+				{
+					"bus" : "Clarion Inn to Boatyard Grill (1st bus)",
+					"time" : "9:30pm"
+				},
+				{
+					"bus" : "Clarion Inn to Boatyard Grill (2nd bus)",
+					"time" : "10:00pm"
+				},
+				{
+					"bus" : "Boatyard Grill to Clarion Inn",
+					"time" : "12:20am"
+				},
+				{
+					"bus" : "Boatyard Grill to Clarion Inn",
+					"time" : "1:00am"
+				}
+			]
+		},
+		{
+			"day" : "Sunday",
+			"buses" : [
+				{
+					"bus" : "Clarion Inn to Bailey Hall",
+					"time" : "9:40am"
+				},
+				{
+					"bus" : "Clarion Inn to Bailey Hall",
+					"time" : "10:20am"
+				},
+				{
+					"bus" : "Bailey Hall to Clarion Inn",
+					"time" : "2:45pm"
+				},
+				{
+					"bus" : "Bailey Hall to Clarion Inn (Head Delegates only)",
+					"time" : "3:25pm"
+				}
+			]
+		}
+	]
+}
