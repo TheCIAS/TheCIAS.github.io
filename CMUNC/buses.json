@@ -3,14 +3,6 @@
 		{
 			"name" : "Bailey Hall",
 			"address" : "230 Garden Ave, Ithaca, NY 14850"
-		},
-		{
-			"name" : "Boatyard Grill",
-			"address" : "525 Old Taughannock Blvd, Ithaca, NY 14850"
-		},
-		{
-			"name" : "Clarion Inn",
-			"address" : "525 Old Taughannock Blvd, Ithaca, NY 14850"
 		}
 	],
 	"buses" : [
