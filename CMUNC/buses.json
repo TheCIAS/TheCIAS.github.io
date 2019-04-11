@@ -10,24 +10,94 @@
 			"day" : "Thursday",
 			"buses" : [
 				{
-					"bus" : "Clarion Inn to Bailey Hall",
-					"time" : "6:00pm",
-					"info" : "test some info. This school and that school go here."
+					"bus" : "Best Western to Bailey Hall",
+					"time" : "6:30pm",
+					"info" : "Masters School"
 				},
 				{
-					"bus" : "Clarion Inn to Bailey Hall",
-					"time" : "6:35pm",
-					"info" : ""
+					"bus" : "Clarion/Homewood Suites to Bailey Hall",
+					"time" : "6:30pm",
+					"info" : "Orchard Park HS, South Bronx Prep, Ashton School"
 				},
 				{
-					"bus" : "Bailey Hall to Clarion Inn",
-					"time" : "11:15pm",
-					"info" : ""
+					"bus" : "Fairfield/Hampton to Bailey Hall",
+					"time" : "6:30pm",
+					"info" : "Lakewood, State College Area HS"
 				},
 				{
-					"bus" : "Bailey Hall to Clarion Inn (Head Delegates only)",
+					"bus" : "Hilton Garden Inn to Bailey Hall",
+					"time" : "6:30pm",
+					"info" : "Marymount School, Calhoun School"
+				},
+				{
+					"bus" : "Hotel Ithaca to Bailey Hall",
+					"time" : "6:30pm",
+					"info" : "Stuart Country Day School, Red Hook High School"
+				},
+				{
+					"bus" : "Marriott to Bailey Hall",
+					"time" : "6:30pm",
+					"info" : "Dwight-Englewood, Blair Academy"
+				},
+				{
+					"bus" : "Best Western to Bailey Hall",
+					"time" : "7:00pm",
+					"info" : "Standby"
+				},
+				{
+					"bus" : "Clarion to Bailey Hall",
+					"time" : "7:00pm",
+					"info" : "Standby"
+				},
+				{
+					"bus" : "Fairfield to Bailey Hall",
+					"time" : "7:00pm",
+					"info" : "Standby"
+				},
+				{
+					"bus" : "Hilton Garden Inn to Bailey Hall",
+					"time" : "7:00pm",
+					"info" : "Culver, Choate Rosemary, Riverdale Country"
+				},
+				{
+					"bus" : "Hotel Ithaca to Bailey Hall",
+					"time" : "7:00pm",
+					"info" : "Standby"
+				},
+				{
+					"bus" : "Marriott to Bailey Hall",
+					"time" : "7:00pm",
+					"info" : "Standby"
+				},
+				{
+					"bus" : "Bailey Hall to Best Western",
 					"time" : "11:50pm",
-					"info" : ""
+					"info" : "Masters School"
+				},
+				{
+					"bus" : "Bailey Hall to Clarion/Homewood Suites",
+					"time" : "11:50pm",
+					"info" : "Orchard Park HS, South Bronx Prep, Ashton School"
+				},
+				{
+					"bus" : "Bailey Hall to Fairfield/Hampton",
+					"time" : "11:50pm",
+					"info" : "Lakewood, State College Area HS"
+				},
+				{
+					"bus" : "Bailey Hall to Hilton Garden Inn",
+					"time" : "11:50pm",
+					"info" : "Marymount School, Calhoun School"
+				},
+				{
+					"bus" : "Bailey Hall to Hotel Ithaca",
+					"time" : "11:50pm",
+					"info" : "Stuart Country Day School, Red Hook High School"
+				},
+				{
+					"bus" : "Bailey Hall to Marriott",
+					"time" : "11:50pm",
+					"info" : "Dwight-Englewood, Blair Academy"
 				}
 			]
 		},
