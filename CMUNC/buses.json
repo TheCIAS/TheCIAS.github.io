@@ -98,7 +98,12 @@
 					"bus" : "Bailey Hall to Marriott",
 					"time" : "11:50pm",
 					"info" : "Dwight-Englewood, Blair Academy"
-				}
+				},
+				{
+					"bus" : "Bailey Hall to Hilton Garden Inn",
+					"time" : "12:20pm",
+					"info" : "Culver, Choate Rosemary, Riverdale Country"
+				},
 			]
 		},
 		{
