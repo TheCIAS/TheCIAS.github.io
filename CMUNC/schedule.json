@@ -32,17 +32,17 @@
 			},
 			{
 			"event" : "General Assembly/Specialized Training",
-			"location" : "Caldwell Hall 100",
-			"times" : ["1:30pm - 2:30pm"]
-			},
-			{
-			"event" : "Crisis Training",
 			"location" : "Warren Hall B75",
 			"times" : ["1:30pm - 2:30pm"]
 			},
 			{
-			"event" : "UN4MUN Training",
+			"event" : "Crisis Training",
 			"location" : "Warren Hall B25",
+			"times" : ["1:30pm - 2:30pm"]
+			},
+			{
+			"event" : "UN4MUN Training",
+			"location" : "Caldwell Hall 100",
 			"times" : ["1:30pm - 2:30pm"]
 			},
 			{
