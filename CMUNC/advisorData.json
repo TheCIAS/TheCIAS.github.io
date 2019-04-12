@@ -15,6 +15,22 @@
 		{
 			"date" : "4/11/2019, 10:30 PM",
 			"description" : "Warren Hall B02. Attendance is required."
-		}
+		},
+		{
+			"date" : "4/12/2019, 5:45 PM",
+			"description" : "Warren Hall B02. Attendance is required."
+		},
+		{
+			"date" : "4/12/2019, 9:45 PM",
+			"description" : "Warren Hall B02. Attendance is required."
+		},
+		{
+			"date" : "4/13/2019, 12:00 PM",
+			"description" : "Malott Hall 228. Attendance is required."
+		},
+		{
+			"date" : "4/13/2019, 5:00 PM",
+			"description" : "Malott Hall 228. Attendance is required."
+		},
 	]
 }
