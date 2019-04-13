@@ -110,24 +110,64 @@
 			"day" : "Friday",
 			"buses" : [
 				{
-					"bus" : "Clarion Inn to Bailey Hall",
-					"time" : "3:25pm",
-					"info" : ""
-				},
-				{
-					"bus" : "Clarion Inn to Bailey Hall",
-					"time" : "4:05pm",
-					"info" : ""
+					"bus" : "Bailey Hall to Best Western",
+					"time" : "11:20pm",
+					"info" : "Masters School"
 				},
 				{
 					"bus" : "Bailey Hall to Clarion Inn",
-					"time" : "10:15pm",
-					"info" : ""
+					"time" : "11:20pm",
+					"info" : "Orchard Park HS, East Orange Stem Academy, Catherine Gazzini, Academy of Holy Angels"
 				},
 				{
-					"bus" : "Bailey Hall to Clarion Inn (Head Delegates only)",
-					"time" : "10:55pm",
-					"info" : ""
+					"bus" : "Bailey Hall to Fairfield Inn",
+					"time" : "11:20pm",
+					"info" : "Lakewood HS"
+				},
+				{
+					"bus" : "Bailey Hall to Hilton Garden Inn",
+					"time" : "11:20pm",
+					"info" : "Culver Academies, Obra D Tompkins School, Riverdale Country School"
+				},
+				{
+					"bus" : "Bailey Hall to Hotel Ithaca",
+					"time" : "11:20pm",
+					"info" : "Stuart County Day"
+				},
+				{
+					"bus" : "Bailey Hall to Marriott Downtown",
+					"time" : "11:00pm",
+					"info" : "Bronx Science"
+				},
+				{
+					"bus" : "Bailey Hall to Best Western",
+					"time" : "11:50pm",
+					"info" : "Ambassador HQ, Worldview, Hailiang Foreign Language School, Dalton School"
+				},
+				{
+					"bus" : "Bailey Hall to Clarion Inn and Homewood Suites",
+					"time" : "11:50pm",
+					"info" : "South Bronx Prep School, Ashton School, Garden School, West Windsor - Plainsboro High School North"
+				},
+				{
+					"bus" : "Bailey Hall to Fairfield Inn and Hampton Inn",
+					"time" : "11:50pm",
+					"info" : "Ethical Culture School, State College HS"
+				},
+				{
+					"bus" : "Bailey Hall to Hilton Garden Inn",
+					"time" : "11:50pm",
+					"info" : " Corning Painted Post, Marymount School, Choate Rosemary, Calhoun School, Horace Mann"
+				},
+				{
+					"bus" : "Bailey Hall to Hotel Ithaca",
+					"time" : "11:50pm",
+					"info" : "Red Hook High School"
+				},
+				{
+					"bus" : "Bailey Hall to Marriott Downtown",
+					"time" : "11:50pm",
+					"info" : "Dwight-Englewood, Blair Academy"
 				}
 			]
 		},
