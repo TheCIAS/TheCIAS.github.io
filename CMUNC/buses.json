@@ -200,44 +200,69 @@
 			"day" : "Saturday",
 			"buses" : [
 				{
-					"bus" : "Clarion Inn to Bailey Hall",
-					"time" : "9:20am",
-					"info" : ""
+					"bus" : "Best Western to Bailey Hall",
+					"time" : "8:20am",
+					"info" : "Bus #1, Big D's. Masters School"
 				},
 				{
 					"bus" : "Clarion Inn to Bailey Hall",
-					"time" : "10:00am",
-					"info" : ""
+					"time" : "8:20am",
+					"info" : "Bus #2, Big D's. Orchard Park HS, East Orange STEM Academy, Catherine Gazzini, Academy of Holy Angels"
 				},
 				{
-					"bus" : "Bailey Hall to Clarion Inn",
-					"time" : "7:15pm",
-					"info" : ""
+					"bus" : "Fairfield Inn to Bailey Hall",
+					"time" : "8:20am",
+					"info" : "Bus #3, Big D's. Lakewood HS"
 				},
 				{
-					"bus" : "Bailey Hall to Clarion Inn",
-					"time" : "7:55pm",
-					"info" : ""
+					"bus" : "Hilton Garden Inn to Bailey Hall",
+					"time" : "8:20am",
+					"info" : "Bus #5, Big D's. Stuart County Day"
 				},
 				{
-					"bus" : "Clarion Inn to Boatyard Grill (1st bus)",
-					"time" : "9:30pm",
-					"info" : ""
+					"bus" : "Marriott Downtown to Bailey Hall",
+					"time" : "8:20am",
+					"info" : "Bus #6, Big D's. Bronx Science"
 				},
 				{
-					"bus" : "Clarion Inn to Boatyard Grill (2nd bus)",
-					"time" : "10:00pm",
-					"info" : ""
+					"bus" : "Best Western to Bailey Hall",
+					"time" : "8:45am",
+					"info" : "Bus #1, Big D's. Ambassador HQ, Worldview, Hailiang Foreign Language School, Dalton School"
 				},
 				{
-					"bus" : "Boatyard Grill to Clarion Inn",
-					"time" : "12:20am",
-					"info" : ""
+					"bus" : "Clarion Inn/Homewood Suites to Bailey Hall",
+					"time" : "8:45am",
+					"info" : "Bus #2, Big D's. South Bronx Prep School, Ashton School, Garden School"
 				},
 				{
-					"bus" : "Boatyard Grill to Clarion Inn",
-					"time" : "1:00am",
-					"info" : ""
+					"bus" : "Fairfield Inn/Hampton Inn to Bailey Hall",
+					"time" : "8:45am",
+					"info" : "Bus #3, Big D's. Ethical Culture School, State College HS"
+				},
+				{
+					"bus" : "Hilton Garden Inn to Bailey Hall",
+					"time" : "8:45am",
+					"info" : "Bus #4, Big D's. Corning Painted Post, Marymount School, Choate Rosemary, Calhoun School"
+				},
+				{
+					"bus" : "Hotel Ithaca to Bailey Hall",
+					"time" : "8:45am",
+					"info" : "Bus #4, Big D's. Red Hook High School"
+				},
+				{
+					"bus" : "Marriott Downtown to Bailey Hall",
+					"time" : "8:45am",
+					"info" : "Bus #5, Big D's. Dwight-Englewood, Blair Academy"
+				},
+				{
+					"bus" : "Clarion Inn to Bailey Hall",
+					"time" : "9:00am",
+					"info" : "Bus #2, ELS. West-Windsor Plainsboro North"
+				},
+				{
+					"bus" : "Hilton Garden Inn to Bailey Hall",
+					"time" : "9:00am",
+					"info" : "Bus #4, Big D's. Horace Mann"
 				}
 			]
 		},
