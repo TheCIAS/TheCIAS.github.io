@@ -1,32 +1,32 @@
 {
 	"advisorPassword" : "advisors4cmunc",
 	"staffPassword" : "staff4cmunc",
-	"conferenceStartDate" : "4-10-2019",
+	"conferenceStartDate" : "4-17-2019",
 	"numConferenceDays" : 4,
 	"committeeTimes" : [
 		{
-			"start" : "4-10-2019 9:30 PM",
-			"end" : "4-10-2019 11:30 PM"
+			"start" : "4-17-2019 9:30 PM",
+			"end" : "4-17-2019 11:30 PM"
 		},
 		{
-			"start" : "4-11-2019 4:30 PM",
-			"end" : "4-11-2019 7:00 PM"
+			"start" : "4-18-2019 4:30 PM",
+			"end" : "4-18-2019 7:00 PM"
 		},
 		{
-			"start" : "4-11-2019 8:00 PM",
-			"end" : "4-11-2019 11:00 PM"
+			"start" : "4-18-2019 8:00 PM",
+			"end" : "4-18-2019 11:00 PM"
 		},
 		{
-			"start" : "4-12-2019 9:30 PM",
-			"end" : "4-12-2019 1:15 PM"
+			"start" : "4-19-2019 9:30 PM",
+			"end" : "4-19-2019 1:15 PM"
 		},
 		{
-			"start" : "4-12-2019 2:15 PM",
-			"end" : "4-12-2019 6:30 PM"
+			"start" : "4-19-2019 2:15 PM",
+			"end" : "4-19-2019 6:30 PM"
 		},
 		{
-			"start" : "4-13-2019 9:30 PM",
-			"end" : "4-13-2019 11:30 PM"
+			"start" : "4-20-2019 9:30 PM",
+			"end" : "4-20-2019 11:30 PM"
 		}
 	]
 }
