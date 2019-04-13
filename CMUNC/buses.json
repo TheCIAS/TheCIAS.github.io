@@ -95,15 +95,40 @@
 					"info" : "Stuart Country Day School, Red Hook High School"
 				},
 				{
-					"bus" : "Bailey Hall to Marriott",
+					"bus" : "Bailey Hall to Marriott Downtown",
 					"time" : "11:50pm",
 					"info" : "Dwight-Englewood, Blair Academy"
 				},
 				{
-					"bus" : "Bailey Hall to Hilton Garden Inn",
-					"time" : "12:20pm",
-					"info" : "Culver, Choate Rosemary, Riverdale Country"
+					"bus" : "Best Western",
+					"time" : "12:20am",
+					"info" : "Bus 82"
 				},
+				{
+					"bus" : "Fairfield Inn",
+					"time" : "12:20am",
+					"info" : "Bus 104"
+				},
+				{
+					"bus" : "Hampton Inn",
+					"time" : "12:25am",
+					"info" : "Bus 82"
+				},
+				{
+					"bus" : "Hotel Ithaca",
+					"time" : "12:40am",
+					"info" : "Bus 82"
+				},
+				{
+					"bus" : "Marriott Downtown",
+					"time" : "12:50am",
+					"info" : "Bus 104"
+				},
+				{
+					"bus" : "Hilton Garden Inn",
+					"time" : "12:50am",
+					"info" : "Bus 82"
+				}
 			]
 		},
 		{
